@@ -5,7 +5,7 @@
 
     require ('conecta.php'); 
  
-    $email = mysqli_real_escape_string($_conecta, $_POST['email']);
+    $email = mysqli_real_escape_string($_conecta, $_POST['email']); 
     $senha= mysqli_real_escape_string($_conecta, $_POST['senha']);
        
     $senha=md5($senha);
