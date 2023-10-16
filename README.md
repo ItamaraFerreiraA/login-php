@@ -8,4 +8,5 @@
 
 Aplicação desenvolvida utilizando as seguintes tecnologias: Wamp (Servidor Local), MySql (Banco de dados), PHP, HTML e CSS.
 
-![img-](https://github.com/ItamaraFerreiraA/login-php/assets/86384151/77a1190b-fbba-4ea3-9753-8923f50a300d)
+![image](https://github.com/ItamaraFerreiraA/login-php/assets/86384151/54c59ffa-fca3-4f69-a8e6-b798ff6f9ce3)
+
